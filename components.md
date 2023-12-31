@@ -1,17 +1,21 @@
 
 # The Major Components Includes
 
-### Power System
+## Power System
 
 Motors
 
+
 Props
+- 5 inch
 
-5 inch
-
-Speed Controller
+Electronic Speed Controller (ESC)
+- Takes in power
+- ESC controls and distribues power to each motor
 
 ## Video System
+- Anolog
+- Digital
 
 Video Transmitter (VTX)
 Camera 
@@ -25,7 +29,21 @@ Flight Contoller (FC)
 ## Receiver system
 
 Frame
-Receiver
+Reciever (RX)
+
+
+## User
+
+Controller
+- Requires the same reciver protocal as the reciever (RX)
+
+FPV Goggles
+- box googles
+- Low profile goggles
+
+Video Reciever
+
+Antenas
 
 
 
@@ -45,8 +63,7 @@ Motor <- Speed Controller (ESC) <- Power Dist. Board <- xt60 connection <- Batte
 Frame
 
 
-Transmitter (TX)
-Reciever (RX)
+
 
 
 
