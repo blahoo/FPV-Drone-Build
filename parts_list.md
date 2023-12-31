@@ -1,0 +1,27 @@
+Parts List
+
+## Frame
+
+
+## FC and ESC stack
+Speedybee F405
+https://www.speedybee.com/speedybee-f405-v4-bls-55a-30x30-fc-esc-stack/
+- capacitor, xt 60 wire, mounting screws, gummies
+
+## Motors
+
+
+## Camera
+
+
+## Reciver and Antenna
+
+
+## VTX
+
+
+
+6s Lipo Battery
+
+mesh
+https://www.racedayquads.com/products/rdq-3-8-braided-mesh-wire-wrap-2-ft??aff=58
