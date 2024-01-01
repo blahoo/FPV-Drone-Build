@@ -7,8 +7,8 @@ https://rotorvillage.ca/tbs-source-one-v5-5/
 $46.99
 
 ## FC and ESC stack
-Speedybee F405
-https://www.speedybee.com/speedybee-f405-v4-bls-55a-30x30-fc-esc-stack/
+Speedybee F405 v4
+https://rotorvillage.ca/speedybee-f405-v4-bls-55a-30x30-combo-stack/
 - capacitor, xt 60 wire, mounting screws, gummies
 
 ## Motors
