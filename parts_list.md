@@ -1,7 +1,7 @@
 ### Parts List
 
 ## Frame
-TBS SOURCE ONE V5 - 5"
+TBS SOURCE ONE V5 - 5" 
 https://rotorvillage.ca/tbs-source-one-v5-5/
 - screws, standoffs
 
