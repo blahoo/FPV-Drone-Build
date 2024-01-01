@@ -1,7 +1,10 @@
 Parts List
 
 ## Frame
-
+TBS SOURCE ONE V5 - 5"
+https://rotorvillage.ca/tbs-source-one-v5-5/
+- screws, standoffs
+$46.99
 
 ## FC and ESC stack
 Speedybee F405
