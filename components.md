@@ -30,6 +30,7 @@ Flight Contoller (FC)
 
 Frame
 Reciever (RX)
+ELRS (ExpressLRS) - 915 MHz or 2.4GHz
 
 
 ## User
