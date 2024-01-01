@@ -15,7 +15,7 @@ https://rotorvillage.ca/speedybee-f405-v4-bls-55a-30x30-combo-stack/
 $97.99 cad
 
 ## Motors
-
+EMAX ECO II SERIES 2306 - 1700 kv (1900 kv sold out)
 https://rotorvillage.ca/emax-eco-ii-series-2306-motor/
 
 ## Camera, VTX, and TX Antenna
