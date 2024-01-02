@@ -18,9 +18,11 @@ C$97.99
   
 ## Motors
 EMAX ECO II SERIES 2306 - 1700 kv (1900 kv sold out)  
-https://rotorvillage.ca/emax-eco-ii-series-2306-motor/
-
-
+https://rotorvillage.ca/emax-eco-ii-series-2306-motor/  
+  
+C$21.99 x4  
+  
+  
 ## Props
 GEMFAN SBANG 4934 TRI-BLADE PROP  
 https://rotorvillage.ca/gemfan-sbang-4934-tri-blade-prop-4pcs/
