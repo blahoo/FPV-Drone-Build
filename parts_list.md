@@ -31,7 +31,11 @@ C$4.29
 
   
 -------------------------------------------------------------------------------
-## Camera, VTX, and TX Antenna (Digital)
+## Camera, VTX, and TX Antenna (Digital - Walksnail Avatar)
+WALKSNAIL AVATAR HD V2 VTX KIT (DUAL ANTENNA)
+https://rotorvillage.ca/walksnail-avatar-hd-v2-vtx-kit-dual-antenna/
+
+$224.99
 
 
 -------------------------------------------------------------------------------
@@ -41,8 +45,14 @@ https://rotorvillage.ca/caddx-ratel-2-fpv-camera/
   
 C$43.99
 
+  
 ## VTX (Anologue)
+Rush Tank Mini  
+RUSH TANK MINI 5.8GHZ VTX W/ SMARTAUDIO 20X20 (800MW)  
+  
+$53.99  
 
+  
 -------------------------------------------------------------------------------
 ## Receiver
 HAPPYMODEL EXPRESSLRS EP1 2.4GHZ RX  
@@ -57,10 +67,18 @@ https://rotorvillage.ca/radiomaster-rp1-v2-tcxo-expresslrs-2-4ghz-receiver/
   
 C$3.99  
   
+-------------------------------------------------------------------------------
+## Goggles (Digital - Walksnail Avatar)  
+FAT SHARK RECON HD FPV GOGGLES (AVATAR)  
+https://rotorvillage.ca/fat-shark-recon-hd-fpv-goggles-avatar/  
   
-## Goggles
+C$389.99  
+  
+  
+-------------------------------------------------------------------------------
+## Goggles (Analogue)  
 
-https://www.racedayquads.com/products/truerc-x-air-mk-ii-5-8ghz-antennas-stubbies-combo-for-hdzero-goggles-choose-polarization?variant=40103565721713
+-------------------------------------------------------------------------------
 
 ## Controller
 RadioMaster Pocket ELRS Transparent  
