@@ -30,30 +30,6 @@ https://rotorvillage.ca/gemfan-sbang-4934-tri-blade-prop-4pcs/
 C$4.29  
 
   
--------------------------------------------------------------------------------
-## Camera, VTX, and TX Antenna (Digital - Walksnail Avatar)  
-WALKSNAIL AVATAR HD V2 VTX KIT - 32GB  
-https://rotorvillage.ca/walksnail-avatar-hd-v2-vtx-kit-32gb/  
-  
-$209.99  
-  
-  
--------------------------------------------------------------------------------
-## Camera (Anologue)  
-CADDX RATEL 2 FPV CAMERA  
-https://rotorvillage.ca/caddx-ratel-2-fpv-camera/  
-  
-C$43.99
-
-  
-## VTX (Anologue)
-Rush Tank Mini  
-RUSH TANK MINI 5.8GHZ VTX W/ SMARTAUDIO 20X20 (800MW)  
-  
-$53.99  
-
-  
--------------------------------------------------------------------------------
 ## Receiver
 HAPPYMODEL EXPRESSLRS EP1 2.4GHZ RX  
 https://rotorvillage.ca/happymodel-expresslrs-ep1-2-4ghz-rx/
@@ -66,30 +42,55 @@ HAPPYMODEL EXPRESSLRS 2.4GHZ RX ANTENNA - 40MM
 https://rotorvillage.ca/radiomaster-rp1-v2-tcxo-expresslrs-2-4ghz-receiver/
   
 C$3.99  
-  
--------------------------------------------------------------------------------
-## Goggles (Digital - Walksnail Avatar)  
-FAT SHARK RECON HD FPV GOGGLES (AVATAR)  
-https://rotorvillage.ca/fat-shark-recon-hd-fpv-goggles-avatar/  
-  
-C$389.99  
-  
-  
--------------------------------------------------------------------------------
-## Goggles (Analogue)  
-EACHINE EV800D 5.8G 40CH DIVERSITY FPV GOGGLES  
-https://rotorvillage.ca/eachine-ev800d-5-8g-40ch-diversity-fpv-goggles-with-case/  
-  
-$138.99  
-  
-  
--------------------------------------------------------------------------------
 
+  
 ## Controller
 RadioMaster Pocket ELRS Transparent  
 https://www.yycdrones.ca/product-page/copy-of-radiomaster-pocket-elrs-transparent
   
 C$85.86 
+
+  
+-------------------------------------------------------------------------------
+(Digital - Walksnail Avatar)
+
+## Camera, VTX, and TX Antenna  
+WALKSNAIL AVATAR HD V2 VTX KIT - 32GB  
+https://rotorvillage.ca/walksnail-avatar-hd-v2-vtx-kit-32gb/  
+  
+$209.99  
+
+## Goggles  
+FAT SHARK RECON HD FPV GOGGLES (AVATAR)  
+https://rotorvillage.ca/fat-shark-recon-hd-fpv-goggles-avatar/  
+  
+C$389.99  
+  
+-------------------------------------------------------------------------------
+(Anologue)
+
+## Camera  
+CADDX RATEL 2 FPV CAMERA  
+https://rotorvillage.ca/caddx-ratel-2-fpv-camera/  
+  
+C$43.99
+
+  
+## VTX
+Rush Tank Mini  
+RUSH TANK MINI 5.8GHZ VTX W/ SMARTAUDIO 20X20 (800MW)  
+  
+$53.99  
+
+  
+## Goggles  
+EACHINE EV800D 5.8G 40CH DIVERSITY FPV GOGGLES  
+https://rotorvillage.ca/eachine-ev800d-5-8g-40ch-diversity-fpv-goggles-with-case/  
+  
+$138.99
+  
+  
+-------------------------------------------------------------------------------
 
   
 ## Additional Parts
