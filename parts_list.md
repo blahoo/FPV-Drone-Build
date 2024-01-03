@@ -123,15 +123,6 @@ C$49.99
 |Controller|RadioMaster Pocket ELRS Transparent|https://www.yycdrones.ca/product-page/copy-of-radiomaster-pocket-elrs-transparent |C$85.86|
 
   
-### Anologue Build
-
-|Part |Product |Link |Cost |
-|-----|--------|-----|-----|
-|Camera|CADDX RATEL 2 FPV CAMERA|https://rotorvillage.ca/caddx-ratel-2-fpv-camera/ |C$43.99|
-|Video Transmitter (VTX)|RUSH TANK MINI 5.8GHZ VTX W/ SMARTAUDIO 20X20 (800MW)|https://rotorvillage.ca/rush-tank-mini-5-8ghz-vtx-w-smartaudio-20x20-800mw/ |C$53.99|  
-|FPV Goggles|EACHINE EV800D 5.8G 40CH DIVERSITY FPV GOGGLES|https://rotorvillage.ca/eachine-ev800d-5-8g-40ch-diversity-fpv-goggles-with-case/ |$138.99|
-  
-  
 ### Digital Build
   
 |Part |Product |Link |Cost |
@@ -139,6 +130,16 @@ C$49.99
 |Camera, VTX, and TX Antenna|WALKSNAIL AVATAR HD V2 VTX KIT - 32GB|https://rotorvillage.ca/walksnail-avatar-hd-v2-vtx-kit-32gb/ |C$209.99|
 |Goggles|FAT SHARK RECON HD FPV GOGGLES (AVATAR)|https://rotorvillage.ca/fat-shark-recon-hd-fpv-goggles-avatar/ |C$389.99|
 |TX Antenna|TRUERC SINGULARITY MMCX 5.8GHZ ANTENNA|https://rotorvillage.ca/truerc-singularity-mmcx-5-8ghz-antenna-clearance/ |$26.49|
+  
+  
+### Anologue Build
+
+|Part |Product |Link |Cost |
+|-----|--------|-----|-----|
+|Camera|CADDX RATEL 2 FPV CAMERA|https://rotorvillage.ca/caddx-ratel-2-fpv-camera/ |C$43.99|
+|Video Transmitter (VTX)|RUSH TANK MINI 5.8GHZ VTX W/ SMARTAUDIO 20X20 (800MW)|https://rotorvillage.ca/rush-tank-mini-5-8ghz-vtx-w-smartaudio-20x20-800mw/ |C$53.99|  
+|TX Antenna|TRUERC SINGULARITY MMCX 5.8GHZ ANTENNA|https://rotorvillage.ca/truerc-singularity-mmcx-5-8ghz-antenna-clearance/ |$26.49|
+|FPV Goggles|EACHINE EV800D 5.8G 40CH DIVERSITY FPV GOGGLES|https://rotorvillage.ca/eachine-ev800d-5-8g-40ch-diversity-fpv-goggles-with-case/ |$138.99|
   
   
 ### Additional Parts
