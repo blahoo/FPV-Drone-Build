@@ -78,18 +78,22 @@ https://rotorvillage.ca/caddx-ratel-2-fpv-camera/
 C$43.99
   
   
-## VTX  
+## Video Transmitter (VTX)  
 RUSH TANK MINI 5.8GHZ VTX W/ SMARTAUDIO 20X20 (800MW)  
 https://rotorvillage.ca/rush-tank-mini-5-8ghz-vtx-w-smartaudio-20x20-800mw/  
   
-$53.99  
+C$53.99  
+  
+  
+## TX Antenna
+
   
   
 ## Goggles  
 EACHINE EV800D 5.8G 40CH DIVERSITY FPV GOGGLES  
 https://rotorvillage.ca/eachine-ev800d-5-8g-40ch-diversity-fpv-goggles-with-case/  
   
-$138.99
+C$138.99
   
   
 -------------------------------------------------------------------------------
@@ -103,15 +107,33 @@ https://rotorvillage.ca/tattu-r-line-v5-0-1200mah-6s-150c-lipo-xt60/
 $49.99  
   
   
-Summary Table
-
+### Summary Table
+  
 |Part |Product |Link |Cost |
 |-----|--------|-----|-----|
 |Frame|TBS SOURCE ONE V5 - 5"| https://rotorvillage.ca/tbs-source-one-v5-5/ |C$46.99|
-|FC and ESC stack|Speedybee F405 v4|https://rotorvillage.ca/speedybee-f405-v4-bls-55a-30x30-combo-stack/ |C$97.99|
+|Flight Controller (FC)/ Electronic Speed Controller (ESC) stack|Speedybee F405 v4|https://rotorvillage.ca/speedybee-f405-v4-bls-55a-30x30-combo-stack/ |C$97.99|
 |Motors|EMAX ECO II SERIES 2306 - 1700 kv|https://rotorvillage.ca/emax-eco-ii-series-2306-motor/ |C$21.99 x4|
 |Props|GEMFAN SBANG 4934 TRI-BLADE PROP|https://rotorvillage.ca/gemfan-sbang-4934-tri-blade-prop-4pcs/ |C$4.29|
+
   
+### Anologue Build
+
+|Part |Product |Link |Cost |
+|-----|--------|-----|-----|
+|Camera|CADDX RATEL 2 FPV CAMERA|https://rotorvillage.ca/caddx-ratel-2-fpv-camera/ |C$43.99|
+|Video Transmitter (VTX)|RUSH TANK MINI 5.8GHZ VTX W/ SMARTAUDIO 20X20 (800MW)|https://rotorvillage.ca/rush-tank-mini-5-8ghz-vtx-w-smartaudio-20x20-800mw/ |C$53.99|  
+|FPV Goggles|EACHINE EV800D 5.8G 40CH DIVERSITY FPV GOGGLES|https://rotorvillage.ca/eachine-ev800d-5-8g-40ch-diversity-fpv-goggles-with-case/ |$138.99|
+  
+  
+### Digital Build
+  
+|Part |Product |Link |Cost |
+|-----|--------|-----|-----|
+|Camera, VTX, and TX Antenna|WALKSNAIL AVATAR HD V2 VTX KIT - 32GB|https://rotorvillage.ca/walksnail-avatar-hd-v2-vtx-kit-32gb/ |C$209.99|
+|Goggles|FAT SHARK RECON HD FPV GOGGLES (AVATAR)|https://rotorvillage.ca/fat-shark-recon-hd-fpv-goggles-avatar/ |C$389.99|
+
+
 
 ### Total Cost (Tax + Shipping): too many $
 
