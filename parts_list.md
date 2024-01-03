@@ -115,6 +115,9 @@ $49.99
 |Flight Controller (FC)/ Electronic Speed Controller (ESC) stack|Speedybee F405 v4|https://rotorvillage.ca/speedybee-f405-v4-bls-55a-30x30-combo-stack/ |C$97.99|
 |Motors|EMAX ECO II SERIES 2306 - 1700 kv|https://rotorvillage.ca/emax-eco-ii-series-2306-motor/ |C$21.99 x4|
 |Props|GEMFAN SBANG 4934 TRI-BLADE PROP|https://rotorvillage.ca/gemfan-sbang-4934-tri-blade-prop-4pcs/ |C$4.29|
+|Receiver|HAPPYMODEL EXPRESSLRS EP1 2.4GHZ RX|https://rotorvillage.ca/happymodel-expresslrs-ep1-2-4ghz-rx/ |C$19.99|
+|RX Antenna|HAPPYMODEL EXPRESSLRS 2.4GHZ RX ANTENNA - 40MM|https://rotorvillage.ca/radiomaster-rp1-v2-tcxo-expresslrs-2-4ghz-receiver/ |C$3.99|
+|Controller|RadioMaster Pocket ELRS Transparent|https://www.yycdrones.ca/product-page/copy-of-radiomaster-pocket-elrs-transparent |C$85.86|
 
   
 ### Anologue Build
