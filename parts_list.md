@@ -129,7 +129,6 @@ C$49.99
 |-----|--------|-----|-----|
 |Camera, VTX, and TX Antenna|WALKSNAIL AVATAR HD V2 VTX KIT - 32GB|https://rotorvillage.ca/walksnail-avatar-hd-v2-vtx-kit-32gb/ |C$209.99|
 |Goggles|FAT SHARK RECON HD FPV GOGGLES (AVATAR)|https://rotorvillage.ca/fat-shark-recon-hd-fpv-goggles-avatar/ |C$389.99|
-|TX Antenna|TRUERC SINGULARITY MMCX 5.8GHZ ANTENNA|https://rotorvillage.ca/truerc-singularity-mmcx-5-8ghz-antenna-clearance/ |$26.49|
   
   
 ### Anologue Build
