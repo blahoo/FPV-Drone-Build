@@ -104,7 +104,7 @@ C$138.99
 TATTU R-LINE V5.0 1200MAH 6S 150C LIPO XT60  
 https://rotorvillage.ca/tattu-r-line-v5-0-1200mah-6s-150c-lipo-xt60/  
   
-$49.99  
+C$49.99  
   
   
 ### Summary Table
@@ -137,6 +137,11 @@ $49.99
 |Goggles|FAT SHARK RECON HD FPV GOGGLES (AVATAR)|https://rotorvillage.ca/fat-shark-recon-hd-fpv-goggles-avatar/ |C$389.99|
 
 
+### Additional Parts
+
+|Part |Product |Link |Cost |
+|-----|--------|-----|-----|
+|Battery| TATTU R-LINE V5.0 1200MAH 6S 150C LIPO XT60|https://rotorvillage.ca/tattu-r-line-v5-0-1200mah-6s-150c-lipo-xt60/ |C$49.99|
 
 ### Total Cost (Tax + Shipping): too many $
 
