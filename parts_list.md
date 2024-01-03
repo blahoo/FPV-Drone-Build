@@ -103,14 +103,15 @@ https://rotorvillage.ca/tattu-r-line-v5-0-1200mah-6s-150c-lipo-xt60/
 $49.99  
   
   
-### Total Cost (Tax + Shipping): too many $
-
+Summary Table
 
 |Part |Product |Link |Cost |
 |-----|--------|-----|-----|
-|Frame        |  TBS SOURCE ONE V5 - 5"  | https://rotorvillage.ca/tbs-source-one-v5-5/                |         C$46.99      |
-| ## FC and ESC stack  |Speedybee F405 v4  |https://rotorvillage.ca/speedybee-f405-v4-bls-55a-30x30-combo-stack/  |C$97.99  |
+|Frame|TBS SOURCE ONE V5 - 5"| https://rotorvillage.ca/tbs-source-one-v5-5/ |C$46.99|
+|FC and ESC stack|Speedybee F405 v4|https://rotorvillage.ca/speedybee-f405-v4-bls-55a-30x30-combo-stack/ |C$97.99|
+|Motors|EMAX ECO II SERIES 2306 - 1700 kv|https://rotorvillage.ca/emax-eco-ii-series-2306-motor/ |C$21.99 x4|
+|Props|GEMFAN SBANG 4934 TRI-BLADE PROP|https://rotorvillage.ca/gemfan-sbang-4934-tri-blade-prop-4pcs/ |C$4.29|
+  
 
-
-
+### Total Cost (Tax + Shipping): too many $
 
