@@ -79,7 +79,6 @@ C$43.99
   
   
 ## VTX  
-Rush Tank Mini  
 RUSH TANK MINI 5.8GHZ VTX W/ SMARTAUDIO 20X20 (800MW)  
 https://rotorvillage.ca/rush-tank-mini-5-8ghz-vtx-w-smartaudio-20x20-800mw/  
   
@@ -105,3 +104,9 @@ $49.99
   
   
 ### Total Cost (Tax + Shipping): too many $
+
+
+|Part |Product |Link |Cost |
+|-----|--------|-----|-----|
+| Frame        |  TBS SOURCE ONE V5 - 5"  | https://rotorvillage.ca/tbs-source-one-v5-5/                |         C$46.99      |
+
