@@ -25,21 +25,21 @@ C$21.99 x4
   
 ## Props
 GEMFAN SBANG 4934 TRI-BLADE PROP  
-https://rotorvillage.ca/gemfan-sbang-4934-tri-blade-prop-4pcs/
+https://rotorvillage.ca/gemfan-sbang-4934-tri-blade-prop-4pcs/  
   
 C$4.29  
 
   
 -------------------------------------------------------------------------------
-## Camera, VTX, and TX Antenna (Digital - Walksnail Avatar)
-WALKSNAIL AVATAR HD V2 VTX KIT (DUAL ANTENNA)
-https://rotorvillage.ca/walksnail-avatar-hd-v2-vtx-kit-dual-antenna/
-
-$224.99
-
-
+## Camera, VTX, and TX Antenna (Digital - Walksnail Avatar)  
+WALKSNAIL AVATAR HD V2 VTX KIT - 32GB  
+https://rotorvillage.ca/walksnail-avatar-hd-v2-vtx-kit-32gb/  
+  
+$209.99  
+  
+  
 -------------------------------------------------------------------------------
-## Camera (Anologue)
+## Camera (Anologue)  
 CADDX RATEL 2 FPV CAMERA  
 https://rotorvillage.ca/caddx-ratel-2-fpv-camera/  
   
@@ -77,7 +77,12 @@ C$389.99
   
 -------------------------------------------------------------------------------
 ## Goggles (Analogue)  
-
+EACHINE EV800D 5.8G 40CH DIVERSITY FPV GOGGLES  
+https://rotorvillage.ca/eachine-ev800d-5-8g-40ch-diversity-fpv-goggles-with-case/  
+  
+$138.99  
+  
+  
 -------------------------------------------------------------------------------
 
 ## Controller
