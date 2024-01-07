@@ -137,7 +137,7 @@ C$49.99
 |-----|--------|-----|-----|
 |Camera|CADDX RATEL 2 FPV CAMERA|https://rotorvillage.ca/caddx-ratel-2-fpv-camera/ |C$43.99|
 |Video Transmitter (VTX)|RUSH TANK MINI 5.8GHZ VTX W/ SMARTAUDIO 20X20 (800MW)|https://rotorvillage.ca/rush-tank-mini-5-8ghz-vtx-w-smartaudio-20x20-800mw/ |C$53.99|  
-|TX Antenna|TRUERC SINGULARITY MMCX 5.8GHZ ANTENNA|https://www.yycdrones.ca/product-page/osprey-5-8ghz-90mm-mmcx-antenna-rhcp |C$7.81|
+|TX Antenna|Osprey 5.8Ghz 90mm MMCX Antenna - RHCP|https://www.yycdrones.ca/product-page/osprey-5-8ghz-90mm-mmcx-antenna-rhcp |C$7.81|
 |FPV Goggles|EACHINE EV800D 5.8G 40CH DIVERSITY FPV GOGGLES|https://rotorvillage.ca/eachine-ev800d-5-8g-40ch-diversity-fpv-goggles-with-case/ |C$138.99|
 
 Note: Eachine Goggles ship with RHCP antennas
