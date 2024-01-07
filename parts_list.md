@@ -123,7 +123,7 @@ C$49.99
 |Controller|RadioMaster Pocket ELRS Transparent|https://www.yycdrones.ca/product-page/copy-of-radiomaster-pocket-elrs-transparent |C$85.86|
 
   
-### Digital Build
+### Digital Build (No audio)
   
 |Part |Product |Link |Cost |
 |-----|--------|-----|-----|
@@ -131,7 +131,7 @@ C$49.99
 |Goggles|FAT SHARK RECON HD FPV GOGGLES (AVATAR)|https://rotorvillage.ca/fat-shark-recon-hd-fpv-goggles-avatar/ |C$389.99|
   
   
-### Anologue Build
+### Anologue Build (I chose this)
 
 |Part |Product |Link |Cost |
 |-----|--------|-----|-----|
