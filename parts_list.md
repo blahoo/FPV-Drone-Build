@@ -13,7 +13,7 @@
 |Controller|RadioMaster Pocket ELRS Transparent|https://www.yycdrones.ca/product-page/copy-of-radiomaster-pocket-elrs-transparent |C$85.86|
 
   
-### Digital Build (No audio)
+### Digital Build 
   
 |Part |Product |Link |Cost |
 |-----|--------|-----|-----|
