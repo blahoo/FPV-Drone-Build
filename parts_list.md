@@ -21,7 +21,7 @@
 |Goggles|FAT SHARK RECON HD FPV GOGGLES (AVATAR)|https://rotorvillage.ca/fat-shark-recon-hd-fpv-goggles-avatar/ |C$389.99|
   
   
-### Anologue Build (I chose this)
+### Analogue Build (I chose this)
 
 |Part |Product |Link |Cost |
 |-----|--------|-----|-----|
