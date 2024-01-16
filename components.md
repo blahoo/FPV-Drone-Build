@@ -14,7 +14,7 @@ Electronic Speed Controller (ESC)
 - ESC controls and distribues power to each motor
 
 ## Video System
-- Anolog
+- Analog
 - Digital
 
 Video Transmitter (VTX)
