@@ -1,9 +1,11 @@
 
-# The Major Components Includes
+# Notes
 
 ## Power System
 
 Motors
+- 1700KV to 1900KV motors are best for 6s builds
+- higher KV motors for lower cell batteries 
 
 
 Props
