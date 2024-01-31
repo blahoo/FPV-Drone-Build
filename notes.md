@@ -34,6 +34,7 @@
   - Each cell must be charged equally
   - Voltage range per cell usually between 3.5v to 4v 
   - Storage voltage is roughly 3.8v per cell
+- More cells leads to less battery sag during flight
 &nbsp;  
 &nbsp;  
 ## Video System
@@ -46,7 +47,8 @@
 - Digital Systems (digital signals)
   - Higher picture quality and less interference
   - Walksnail, DJI, HDZero
-  - Expensive 
+  - Expensive
+  - Notes don't really apply since parts usually ship as a set
 &nbsp;  
 &nbsp;  
 ### Camera 
@@ -63,6 +65,7 @@
 - SmartAudio is not actually audio, it's a communication protocol
   - Used to change VTX settings 
 - Get audio chips with automatic gain control (AGC)
+- Power output measured in mW, 500 mW good enough
 &nbsp;  
 &nbsp;  
 ### Antenna (TX)
@@ -85,6 +88,7 @@
 - Provides and receives inputs from all components
 - The brain of the drone
 - Check the operational voltage range
+- Capacitor used to help voltage spikes and video noise
 &nbsp;  
 &nbsp;
 ## Receiver system
@@ -120,43 +124,13 @@
 ## User
 
 ### Controller
-- Requires the same receiver protocol as the receiver (RX)
-
-FPV Goggles
-- box goggles
+- Requires the same receiver protocol as the receiver
+- Output power measured in mW, 250 mW is good enough
+&nbsp;  
+&nbsp; 
+### FPV Goggles
+- Box goggles
+- Cheaper and large
 - Low profile goggles
-
-Video Receiver
-
-Antenas
-
-
-
-xt60 connector for power
-6 to 4 cell battery
-1800 kv motor for 6s battery
-
-- Capacitor for voltage spikes and video noise
-
-
-Flight controller has everything
-
-
-Motor <- Speed Controller (ESC) <- Power Dist. Board <- xt60 connector <- Battery
-
------
-Frame
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- More expensive and lighter
+- Diversity antennas use 2 antennas for better signal 
